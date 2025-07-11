@@ -62,3 +62,12 @@ The core FSM controls the voting process through **four states**:
 
 ---
 
+## Block Diagram
+
+![Block Diagram](docs/block_diagram.png)
+
+---
+
+## FPGA Implementation Demo
+
+![FPGA Demo](docs/fpga_thumbnail.png)
